@@ -18,5 +18,15 @@ Contents
 
 
 
-Installation
+Installation or required library
+
 NUMPY
+
+Matplotlib
+
+OPENCV Version2
+
+IMPLEMENTATION
+
+open the image with readme file and mention the path
+

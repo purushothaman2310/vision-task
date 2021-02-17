@@ -18,7 +18,7 @@ Contents
 
 
 
-Installation or required library
+##Installation or required library
 
 NUMPY
 
@@ -28,5 +28,5 @@ OPENCV Version2
 
 IMPLEMENTATION
 
-open the image with readme file and mention the path
+i)open the image with readme file and mention the path,
 

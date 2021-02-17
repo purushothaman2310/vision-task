@@ -30,5 +30,5 @@ IMPLEMENTATION
 
 i)open the image with readme file and mention the path,
 $ open pip- install
-C:\Users\Saravanan>hello
+ls-C:\Users\Saravanan>hello
 

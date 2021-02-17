@@ -26,9 +26,8 @@ Matplotlib
 
 OPENCV Version2
 
-IMPLEMENTATION
+## IMPLEMENTATION
 
-i)open the image with readme file and mention the path,
-$ open pip- install
-ls-C:\Users\Saravanan>hello
+>open the image with readme file and mention the path,converting the image to grayscale so that it noise and applying bilateral filter which used to smooth the image without affecting the edge and applying canny filter with high hystersis 
+
 

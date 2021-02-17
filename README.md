@@ -28,6 +28,7 @@ OPENCV Version2
 
 ## IMPLEMENTATION
 
->open the image with readme file and mention the path,converting the image to grayscale so that it noise and applying bilateral filter which used to smooth the image without affecting the edge and applying canny filter with high hystersis 
+>open the image with readme file and mention the path,converting the image to grayscale so that it noise and applying bilateral filter which used to smooth the image without affecting the edge and applying canny filter with high hystersis makes edges more sharper 
+>For more details [cannyfilter](https://en.wikipedia.org/wiki/Canny_edge_detector)
 
 
